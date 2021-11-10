@@ -1,0 +1,3 @@
+userName,taskNumber,focus,elapsedTime,headsetX,headsetY,headsetZ,ControllerLeftX,ControllerLeftY,ControllerLeftZ,ControllerRightX,ControllerRightY,ControllerRightZ,distance,taskID,objectName,objectXLength,objectYLength,objectZLength,currentObjectRotationX,currentObjectRotationY,currentObjectRotationZ,targetRotationX,targetRotationY,targetRotationZ,angle,button,side,status
+TestLog,0,Tutorial,0.02,-1.374112,0.8467627,-0.3742821,0,0,1,0.37,0,1,0.226645,0,0CuboidTutorial,0.1187976,0.1187976,0.1187976,0,0,0,0,0,0,0,,,
+TestLog,0,Tutorial,2.439693,-1.374153,0.8467492,-0.3742721,0,0,1,0,0,1,0.226645,0,0CuboidTutorial,0.1187976,0.1187976,0.1187976,0,0,0,0,0,0,0,,,

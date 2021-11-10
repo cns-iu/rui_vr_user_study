@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.registrationuivirtualreality.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\GoogleDriveIU\\18-HuBMAP-w\\Registration UI\\threeJS-w\\Registration-UI-Virtual-Reality\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "CCF-RUI-v0.5.0 [Testing]"
+        }
+      }
+    }
+  ]
+}
